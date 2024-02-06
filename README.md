@@ -1,2 +1,2 @@
 # Portfolio
-This is for personal projects.
+This is for portfolio.
